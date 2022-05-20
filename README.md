@@ -76,7 +76,7 @@ void loop()
 
 ### RESULT:
 
-Thus the speed and the direction of a DC motor using L293D driver is controlled by using tincercad software.
+Thus,the speed and the direction of a DC motor using L293D driver is controlled by using tincercad software.
 
 
 
